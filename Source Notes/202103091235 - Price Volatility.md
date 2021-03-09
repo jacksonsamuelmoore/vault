@@ -47,3 +47,16 @@ Agricultural goods:
 - Spoil
 - Are fixed to one season
 - Cannot be scaled easily
+## Why are groups unhappy with price volatility
+### Producers
+This is a problem for producers as they can't predict their future revenue, which means that they will be uncertain and won't invest as much. Price volatility could be
+### Consumers
+- Could be hit with high prices
+- Rarely hit with low prices due to middlemen
+### Governments
+- Uncertain tax revenue
+- Can't invest in infrastructure
+- Particularly a problem for developing countries as a barrier to development
+	- Impossible to commit to schemes in long run
+	- Falling prices reduce terms of trade
+	- Falling prices create cost push inflation   
