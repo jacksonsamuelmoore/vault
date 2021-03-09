@@ -1,0 +1,5 @@
+b'[[PC]]'
+b'[[MC]]'
+b'[[Oligopoly]]'
+b'[[Monopoly]]'
+b'[[Constable]]'

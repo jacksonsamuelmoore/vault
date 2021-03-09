@@ -1,0 +1,8 @@
+b'[[AD]]'
+b'[[Real GDP]]'
+b'[[Cost Push Inflation]]'
+b'[[Demand Pull Inflation]]'
+b'[[Balance of Trade]]'
+b'[[Employment]]'
+b'[[Domestic producer revenue]]'
+b'[[FDI]]'

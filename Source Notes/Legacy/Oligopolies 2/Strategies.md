@@ -1,0 +1,7 @@
+b'[[Cartel]]'
+b'[[Price leadership implicit collusion]]'
+b'[[Price skimming]]'
+b'[[Limit Pricing]]'
+b'[[Price Wars]]'
+b'[[Preadatory Pricing]]'
+b'[[Penetration Pricing]]'

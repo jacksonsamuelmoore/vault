@@ -1,0 +1,5 @@
+b'[[5 1 Globalisation]]'
+b'[[5 2 Free Trade]]'
+b'[[5 3 Terms of Trade]]'
+b'[[5 4 Protectionism]]'
+b'[[5 6 Exchange Rates]]'

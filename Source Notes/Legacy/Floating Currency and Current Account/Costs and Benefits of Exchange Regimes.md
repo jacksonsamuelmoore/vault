@@ -1,0 +1,6 @@
+b'[[Advantage 1]]'
+b'[[Advantage 2]]'
+b'[[Advantage 3]]'
+b'[[Disadvantage 1]]'
+b'[[Disadvantage 2]]'
+b'[[Disadvantage 3]]'

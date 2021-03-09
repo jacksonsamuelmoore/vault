@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "ff6ee7e5adbd52de",
+    "type": "split",
+    "children": [
+      {
+        "id": "cea760b7dd638bb7",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Permanent Notes/Physics/PAGs/PAG 5.2 Speed of sound.md",
+            "mode": "source"
+          }
+        },
+        "group": "30452f1c598fba86"
+      },
+      {
+        "id": "87f193d82cbb2e97",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Permanent Notes/Physics/PAGs/PAG 5.2 Speed of sound.md",
+            "mode": "source"
+          }
+        },
+        "group": "30452f1c598fba86"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59cb4850bb0feea5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1e6840269502e24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6237e20f150d116e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "aceef98b8110fa90",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b0951c30f6d3499f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b19b0eb74df64b9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36aa727bd03208e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Permanent Notes/Physics/PAGs/PAG 5.2 Speed of sound.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c5cdd7e0f6dd51ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Permanent Notes/Physics/PAGs/PAG 5.2 Speed of sound.md"
+              }
+            }
+          },
+          {
+            "id": "2765efd8e499ead6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Permanent Notes/Physics/PAGs/PAG 5.2 Speed of sound.md",
+    "Permanent Notes/Physics/PAGs/PAG 8.1 Absolute Zero.md",
+    "Quick Notes/Mr Zawadski Chat.md",
+    "Class Notes/Economics/Micro/Merit and Demerit goods.md",
+    "Class Notes/Economics/Micro/Positive Consumption Externalitlies.md",
+    "Pasted image 20210226114627.png",
+    "Class Notes/Economics/Micro/Untitled.md",
+    "Class Notes/Physics/Homework/Untitled.md",
+    "Untitled.md",
+    "Mr Zawadski Chat.md"
+  ]
+}

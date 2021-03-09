@@ -1,0 +1,8 @@
+b'[[Embargo]]'
+b'[[Licences]]'
+b'[[State Aid]]'
+b'[[Competitive Devaluation]]'
+b'[[Administrative barriers]]'
+b'[[Safety Standards]]'
+b'[[Quotas]]'
+b'[[Voluntary export restraint VER]]'

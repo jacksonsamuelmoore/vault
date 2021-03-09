@@ -1,0 +1,21 @@
+# Magnetic Fields Homework
+1. B
+2. A
+3. C
+4. D
+5. D
+6. C
+7. A
+8. A
+9. D
+10. A
+11. B
+12. D
+13. C
+14. D
+15. B
+16. B
+17. A
+18. B
+19. C
+20. B
