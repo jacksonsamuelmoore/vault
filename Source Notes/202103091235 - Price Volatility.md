@@ -1,8 +1,9 @@
 ---
-date updated: '2021-03-09T13:11:37+01:00'
+date updated: '2021-03-09T14:36:20+01:00'
 tags:
   - '#Marco'
   - '#Market-Failure'
+  - '#Elasticity'
 
 ---
 
@@ -47,16 +48,41 @@ Agricultural goods:
 - Spoil
 - Are fixed to one season
 - Cannot be scaled easily
+
 ## Why are groups unhappy with price volatility
+
 ### Producers
-This is a problem for producers as they can't predict their future revenue, which means that they will be uncertain and won't invest as much. Price volatility could be
+
+This is a problem for producers as they can't predict their future revenue, which means that they will be uncertain and won't invest as much
+
 ### Consumers
+
 - Could be hit with high prices
 - Rarely hit with low prices due to middlemen
+
 ### Governments
+
 - Uncertain tax revenue
 - Can't invest in infrastructure
 - Particularly a problem for developing countries as a barrier to development
-	- Impossible to commit to schemes in long run
-	- Falling prices reduce terms of trade
-	- Falling prices create cost push inflation   
+  - Impossible to commit to schemes in long run
+  - Falling prices reduce terms of trade
+  - Falling prices create cost push inflation
+
+![[Recording 20210309142402.webm]]
+
+## Volatility chain of analysis
+
+"Cobweb Diagram"
+![Cobweb theory - Economics Help](https://www.economicshelp.org/wp-content/uploads/2017/12/cobweb-increasing-volatility-price.png)
+
+1. Good harvest increases supply
+2. Price falls
+3. Some businesses no longer viable and others switch production
+4. This reduces supply below where it started
+5. This raises the price
+6. New entrants are attracted to the market and other switch back
+7. Increases supply
+8. Return to step 2
+
+Products with inelastic supply and demand will diverge further the average and see greater volatility
