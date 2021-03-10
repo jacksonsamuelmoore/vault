@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cea760b7dd638bb7",
+        "id": "87f193d82cbb2e97",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Source Notes/202103101217 - Externalities.md",
-            "mode": "source"
-          }
-        },
-        "group": "30452f1c598fba86"
-      },
-      {
-        "id": "87f193d82cbb2e97",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Source Notes/202103101217 - Externalities.md",
+            "file": "Source Notes/202103101442.md",
             "mode": "preview"
           }
-        },
-        "group": "30452f1c598fba86"
+        }
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Source Notes/202103101217 - Externalities.md",
+                "file": "Source Notes/202103101442.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Source Notes/202103101217 - Externalities.md"
+                "file": "Source Notes/202103101442.md"
               }
             }
           },
@@ -120,6 +107,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Source Notes/202103101442.md",
     "Source Notes/202103101217 - Externalities.md",
     "Source Notes/202103101217.md",
     "Source Notes/202103091649- SHM Revision.md",
@@ -128,7 +116,6 @@
     "Permanent Notes/Physics/PAGs/PAG 8.1 Absolute Zero.md",
     "Source Notes/202103071343 - Essays.md",
     "_attachments/Recording 20210309142402.webm",
-    "_attachments/Pasted image 20210226114627.png",
-    "_attachments/Pasted image 20210304094141.png"
+    "_attachments/Pasted image 20210226114627.png"
   ]
 }
