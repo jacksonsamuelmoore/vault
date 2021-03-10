@@ -18,5 +18,17 @@
 7.  Take measurements to determine the distance from the top of the tube to the surface of the water.
 8.  Repeat the experiment to obtain additional readings, continuing to maintain the same frequency.
 9.  Use this data to determine the wavelength of the sound wave.
-10.  Using your calculated wavelength and measured frequency, determine the speed of sound in air.
+10.  Using the calculated wavelength and measured frequency, determine the speed of sound in air.
 
+## Data
+Measured Frequency: 5000Hz
+	-> Time/Div: 0.2ms
+	-> Time Period: $2*10^4$
+Wavelength: $2*5=10cm=0.1m$
+	-> Harmonic 1: 31.5cm
+	-> Harmonic 2: 36.5cm
+	
+=> Speed of sound = 0.1*5000=500m/s 
+
+## Errors
+Measurement of the meniscus: We used our eyes and only one measurement to find the different harmonics. This could cause many errors as we are unable to tell where a perfect standing wave has formed. There is also a potential error with the 

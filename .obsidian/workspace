@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Source Notes/202103091235 - Price Volatility.md",
+            "file": "Source Notes/202103101217 - Externalities.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Source Notes/202103091235 - Price Volatility.md",
+            "file": "Source Notes/202103101217 - Externalities.md",
             "mode": "preview"
           }
         },
@@ -62,13 +62,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b0951c30f6d3499f",
@@ -84,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Source Notes/202103091235 - Price Volatility.md",
+                "file": "Source Notes/202103101217 - Externalities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Source Notes/202103091235 - Price Volatility.md"
+                "file": "Source Notes/202103101217 - Externalities.md"
               }
             }
           },
@@ -122,15 +120,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Source Notes/202103091235 - Price Volatility.md",
-    "Source Notes/202103091235.md",
+    "Source Notes/202103101217 - Externalities.md",
+    "Source Notes/202103101217.md",
+    "Source Notes/202103091649- SHM Revision.md",
+    "Source Notes/202103091649.md",
     "Permanent Notes/Physics/PAGs/PAG 5.2 Speed of sound.md",
     "Permanent Notes/Physics/PAGs/PAG 8.1 Absolute Zero.md",
-    "Quick Notes/Mr Zawadski Chat.md",
-    "Class Notes/Economics/Micro/Merit and Demerit goods.md",
-    "Class Notes/Economics/Micro/Positive Consumption Externalitlies.md",
-    "Pasted image 20210226114627.png",
-    "Class Notes/Economics/Micro/Untitled.md",
-    "Class Notes/Physics/Homework/Untitled.md"
+    "Source Notes/202103071343 - Essays.md",
+    "_attachments/Recording 20210309142402.webm",
+    "_attachments/Pasted image 20210226114627.png",
+    "_attachments/Pasted image 20210304094141.png"
   ]
 }
