@@ -1,0 +1,9 @@
+# "Protesters hope to sideline high speed rail route"
+1. .
+2. .
+	1. The private costs of the production of the railway come mostly in the form of private spending needed to run the rail link: Wages, maintenance etc. The private benefits come in the form of the utility gained by the use of the.~ 2/4
+	2. External costs are costs that are felt by a third party who is not part of the production of the good or service. It is likely that the construction of the rail link will increase external costs. First, there is the destruction of wildlife in the Chiltern hills, which the protesters described as "a unique and special place". The destruction of the wildlife means that residents loose the utility they were gaining from the hills, which is a cost. Secondly, the government is funding the rail link with £16Bn of raised VAT and cuts to welfare. This is a direct cost to the general public with increased prices and decreased welfare. 4/6
+3. There are several way that projects such as these could help the government achieve it's macroeconomic objectives. One policy that this rail link definitely help achieve is the objective of 2% unemployment. A rail link between cities reduces the immobility of labour which in turn reduces geographic unemployment, and so helping the government achieve it's objective. This could, however, not have quite the desired impact as if there is a very low level of geographic unemployment then it may not reduce unemployment at all. 
+	
+	Another policy it may help achieve is the government's growth targets. The construction of this rail link involves £20Bn of government spending. Most of this government spending will end up being on the jobs required to build the project. This raises the 
+	This question did not want you to go into detail about 2-3 objectives, but list and explain roughly 5 different ones

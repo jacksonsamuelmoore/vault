@@ -8,9 +8,25 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "Permanent Notes/Physics/PAGs/PAG Springs in series and parallel.md",
+            "mode": "source"
+          }
+        },
+        "group": "f438eecb5ad0959f"
+      },
+      {
+        "id": "a5f63ae53d77f863",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Permanent Notes/Physics/PAGs/PAG Springs in series and parallel.md",
+            "mode": "source"
+          }
+        },
+        "group": "f438eecb5ad0959f"
       }
     ],
     "direction": "vertical"
@@ -66,6 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Permanent Notes/Physics/PAGs/PAG Springs in series and parallel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Permanent Notes/Physics/PAGs/PAG Springs in series and parallel.md"
+              }
             }
           },
           {
@@ -101,15 +120,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Source Notes/202103101442.md",
-    "Source Notes/202103101217 - Externalities.md",
-    "Source Notes/202103101217.md",
-    "Source Notes/202103091649- SHM Revision.md",
-    "Source Notes/202103091649.md",
-    "Permanent Notes/Physics/PAGs/PAG 5.2 Speed of sound.md",
-    "Permanent Notes/Physics/PAGs/PAG 8.1 Absolute Zero.md",
-    "Source Notes/202103071343 - Essays.md",
-    "_attachments/Recording 20210309142402.webm",
-    "_attachments/Pasted image 20210226114627.png"
+    "Permanent Notes/Physics/PAGs/PAG Springs in series and parallel.md",
+    "Permanent Notes/Physics/PAGs/PAG Oscilations Investiagation.md",
+    "Source Notes/202103111051 -.md",
+    "Permanent Notes/Physics/PAGs/Untitled.md",
+    "Untitled.md",
+    "Source Notes/202103111051.md",
+    "Source Notes/202103110959 - Data Response - Railways.md",
+    "Source Notes/202103110959 - Data Response.md",
+    "Source Notes/202103110959.md",
+    "Source Notes/202103101217 - Externalities.md"
   ]
 }
