@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Permanent Notes/Physics/PAGs/PAG Springs in series and parallel.md",
+            "file": "Source Notes/202103121216 - Micro Revision.md",
             "mode": "source"
           }
         },
@@ -22,8 +22,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Permanent Notes/Physics/PAGs/PAG Springs in series and parallel.md",
-            "mode": "source"
+            "file": "Source Notes/202103121216 - Micro Revision.md",
+            "mode": "preview"
           }
         },
         "group": "f438eecb5ad0959f"
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent Notes/Physics/PAGs/PAG Springs in series and parallel.md",
+                "file": "Source Notes/202103121216 - Micro Revision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent Notes/Physics/PAGs/PAG Springs in series and parallel.md"
+                "file": "Source Notes/202103121216 - Micro Revision.md"
               }
             }
           },
@@ -120,6 +120,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Source Notes/202103121216 - Micro Revision.md",
+    "Source Notes/202103121216.md",
     "Permanent Notes/Physics/PAGs/PAG Springs in series and parallel.md",
     "Permanent Notes/Physics/PAGs/PAG Oscilations Investiagation.md",
     "Source Notes/202103111051 -.md",
@@ -127,8 +129,6 @@
     "Untitled.md",
     "Source Notes/202103111051.md",
     "Source Notes/202103110959 - Data Response - Railways.md",
-    "Source Notes/202103110959 - Data Response.md",
-    "Source Notes/202103110959.md",
-    "Source Notes/202103101217 - Externalities.md"
+    "Source Notes/202103110959 - Data Response.md"
   ]
 }
