@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Source Notes/202103151548 - Economic Growth.md",
+            "file": "Source Notes/202103261116 - Market Structures Revision.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Source Notes/202103151548 - Economic Growth.md",
+            "file": "Source Notes/202103261116 - Market Structures Revision.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Source Notes/202103151548 - Economic Growth.md",
+                "file": "Source Notes/202103261116 - Market Structures Revision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Source Notes/202103151548 - Economic Growth.md"
+                "file": "Source Notes/202103261116 - Market Structures Revision.md"
               }
             }
           },
@@ -111,8 +111,17 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "57a747792bdf0623",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -120,15 +129,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Source Notes/202103151548 - Economic Growth.md",
-    "Source Notes/202103171114 - Comparative Advantage.md",
-    "Source Notes/202103141751 - Essays 2.md",
-    "Source Notes/202103171114.md",
+    "Source Notes/202103261116 - Market Structures Revision.md",
+    "Source Notes/202104011018 - revision.md",
+    "Source Notes/202104151807 - Market failure prep.md",
+    "Source Notes/202104151807.md",
     "Source Notes/202103071343 - Essays.md",
-    "Source Notes/202103151548.md",
-    "Source Notes/202103151354 - Diffraction Questions.md",
     "Source Notes/202103091649- SHM Revision.md",
-    "Source Notes/202103151354.md",
-    "Source Notes/202103121216 - Micro Revision.md"
+    "Source Notes/202103051120 - Policies and Monpoly Power.md",
+    "Source Notes/202103091235 - Price Volatility.md",
+    "Source Notes/202103040857 - Monopoly Power.md",
+    "Source Notes/202103271541 - Inflation and Trade Blocks Revision.md"
   ]
 }

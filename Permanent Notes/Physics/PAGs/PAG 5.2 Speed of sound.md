@@ -31,4 +31,7 @@ Wavelength: $2*5=10cm=0.1m$
 => Speed of sound = 0.1*5000=500m/s 
 
 ## Errors
-Measurement of the meniscus: We used our eyes and only one measurement to find the different harmonics. This could cause many errors as we are unable to tell where a perfect standing wave has formed. There is also a potential error with the 
+Measurement of the meniscus: We used our ears and only one measurement to find the different harmonics. This could cause many errors as we are unable to tell where a perfect standing wave has formed.
+
+## Conclusion
+The experiment was not really a success. The value of the speed of sound calculated was quite off. If I were to do this experiment again I would have measured more harmonics and averaged the distance for wavelength. I would also have likely tried to more precise equipment to find the each harmonic, as using just ears is not very reliable.
